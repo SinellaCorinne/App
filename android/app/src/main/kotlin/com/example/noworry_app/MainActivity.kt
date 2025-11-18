@@ -1,0 +1,5 @@
+package com.example.noworry_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

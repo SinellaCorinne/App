@@ -1,0 +1,211 @@
+{
+  "@@locale": "en",
+  "getStarted": "Get Started",
+  "login": "Login",
+  "pageTitle1": "Food Supplies",
+  "desc1": "Discover fresh local food products from selected suppliers known for their excellence.",
+  "pageTitle2": "Pay Worry-Free",
+  "desc2": "Shop remotely through a secure payment system.",
+  "pageTitle3": "Logistics",
+  "desc3": "Our fastest delivery service brings you what you want in no time.",
+  "settingsTitle": "Settings",
+  "themeSettings": "Theme Mode",
+  "themeSystem": "System Default",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "languageSettings": "Language",
+  "selectLanguage": "Select Language",
+  "onafaliTitle": "OnAFALi",
+  "phoneNumberTitle": "Phone Number",
+  "continueButton": "Continue",
+  "numberHint": "Ex: 66 77 88 99",
+  "emptyNumberError": "Please enter a phone number.",
+  "shortNumberError": "The number is too short.",
+  "nameLabel": "Name",
+  "firstNameLabel": "First Name",
+  "countryLabel": "Country of Residence",
+  "enterNameHint": "Write your name",
+  "enterFirstNameHint": "Write your first name",
+  "selectCountryHint": "Select a country",
+  "countryRequiredError": "Please select your country of residence.",
+  "fieldRequiredError": "This field is required.",
+  "verificationCodeTitle": "Verification Code",
+    "verificationInstruction": "A verification code was sent to your number ending in **{lastDigits}.",
+    "@verificationInstruction": {
+        "placeholders": {
+            "lastDigits": {
+                "type": "String"
+            }
+        }
+    },
+    "resendCodeLabel": "Resend code",
+    "resendCodeTimer": "{minutes}:{seconds}",
+    "verifyNumberButton": "Verify my number",
+    "secretCodeTitle": "Secret Code Definition",
+    "secretCodeInstruction": "Define a 4-digit secret code to secure your account.",
+    "confirmCodeTitle": "Secret Code Confirmation",
+    "confirmCodeInstruction": "Confirm your 4-digit secret code to secure your account.",
+    "enterSecretCode": "Enter your secret code",
+    "forgotCode": "I forgot my code",
+    "needHelp": "Need help?",
+    "resetCodeTitle": "Reset My Secret Code",
+    "newSecretCodeTitle": "New Secret Code",
+    "newSecretCodeInstruction": "Enter a new 4-digit secret code to secure your account.",
+    "resendCodeTimer": "({minutes}:{seconds})",
+    "@resendCodeTimer": {
+    "placeholders": {
+    "minutes": {},
+    "seconds": {}
+       }
+      },
+
+    "searchDishesRestaurants": "Search dishes, restaurants",
+    "onafaliBannerTitle": "OnAFALi",
+    "categoryAll": "All",
+    "categoryFruitsVegetables": "Fruits & Vegetables",
+    "categoryHygieneMaintenance": "Hygiene & Maintenance",
+    "categoryDrinks": "Drinks",
+    "productOriginalSaladName": "Original S...",
+    "productLovyFoodRestaurant": "Lovy Food",
+    "addToCartButton": "Add to Cart",
+    "priceUnit": "F",
+    "homeTabTitle": "Home",
+    "favoritesTabTitle": "Favorites",
+    "profileTabTitle": "Profile",
+    "snackbarItemAdded": "{productName} added to cart!",
+    "@snackbarItemAdded": {
+        "placeholders": {
+            "productName": {
+                "type": "String",
+                "example": "Original S.."
+            }
+        }
+    },
+
+    "productDescription": "This dish is highly appreciated by Senegalese people, it is made with leaves and corn. This dish is highly appreciated by Senegalese people, it is made with leaves.",
+    "reviewsTitle": "Reviews",
+    "reviewAuthor": "Rosemary",
+    "reviewText": "This dish is highly appreciated by Senegalese people it is made with leaves.",
+    "backButtonAlt": "Back",
+    "cartTitle": "Your Cart",
+    "priceLabel": "Price",
+    "deliveryLabel": "Delivery",
+    "discountLabel": "Discount",
+    "totalLabel": "Total",
+    "payOnDeliveryButton": "Pay on delivery",
+    "payNowButton": "Pay now",
+    "sendInvoiceButton": "Send invoice to a relative",
+
+    "ordersTitle": "Your Orders",
+    "statusPending": "Pending",
+    "statusInPreparation": "In preparation",
+    "statusInShipping": "In Shipping",
+    "statusDelivered": "Delivered",
+    "leaveReviewLink": "Leave a review",
+
+    "profileTitle": "Your Profile",
+    "myInfoLabel": "My information",
+    "requestAssistanceLabel": "Request assistance",
+    "promoCodeLabel": "Promo Code",
+    "applyButton": "Apply",
+
+    "personalInfoTitle": "Personal information",
+    "addressLabel": "Address",
+    "saveButton": "Save",
+    "firstNameLabel": "First Name",
+    "lastNameLabel": "Last Name",
+
+    "productOriginalSaladName": "Original Salad",
+  
+  "productOriginalSaladDescription": "This dish is highly appreciated by Senegalese people; it's made with leaves and corn. This dish is highly appreciated by Senegalese people; it's made with leaves and corn...",
+
+  "categoryFruitsVegetables": "Fruits & Vegetables",
+  
+  "productReviewsTitle": "Reviews",
+  
+  "productReviewMockText": "This dish is highly appreciated by Senegalese people; it's made with leaves.",
+
+  "addToCartButton": "Add to Cart",
+  
+  "snackbarItemAdded": "Added to cart: {productName}",
+  "@snackbarItemAdded": {
+    "placeholders": {
+      "productName": {
+        "type": "String"
+      }
+    }
+   },
+    
+    "titleProduct": "Name of Product",
+    "detailProduct":"Details",
+    "categoryProduct":"Categories",
+    "qteProduct":"Quantity",
+    "priceProduct":"Price",
+    "imageProduct":"Photos",
+    "enterTitle":"Write a product name",
+    "enterDetail":"Write a detail",
+    "enterCategory":"Write a product category",
+    "enterPrice":"Write a product price",
+    "enterQte":"Write a product quantity",
+    "addButton":"Add",
+
+    "addProductTitle": "Add a product",
+    "saveProduct": "Add",
+
+  "fieldRequiredError": "This field is required",
+
+   "tabStocks": "My Stocks",
+  "tabOrders": "My Orders",
+  "tabBalance": "My Balance",
+  "tabProfile": "Profile",
+
+  "categoryFruitsLegumes": "FRUITS & VEGETABLES",
+  "categoryHygieneEntretien": "HYGIENE & CLEANING",
+
+  "productNameSample": "Bag of rice",
+  "productDescriptionSample": "A good homemade rice...",
+
+    "orderTitle": "Orders",
+  "orderCategory": "Category",
+  "orderProduct": "Product",
+  "orderClient": "Customer",
+  "orderQuantity": "Quantity",
+  "orderTotalPrice": "Total price",
+  "orderAddress": "Address",
+  "orderPhone": "Phone",
+  "orderStatus": "Status",
+
+  "statusPending": "Pending",
+  "statusPreparing": "Preparing",
+  "statusShipping": "Shipping",
+  "statusDelivered": "Delivered",
+
+
+  "category_fruits_vegetables": "Fruits & Vegetables",
+  "category_hygiene": "Hygiene & Cleaning",
+
+   "balance_title": "Balance",
+  "balance_label": "BALANCE",
+  "histories_title": "Histories",
+  "product_label": "Product",
+  "reference_label": "Reference",
+
+   "selectRoleInstruction": "Please select your role to continue.",
+  "roleClient": "Client",
+  "roleClientDesc": "I buy products in detail.",
+  "roleVendor": "Vendor",
+  "roleVendorDesc": "I sell my products and manage my orders.",
+  "continueButton": "Continue",
+
+   "labelStock": "Stock",
+  "labelPrice": "Price",
+  "labelInStock": "In Stock",
+  "viewProduct": "View Product",
+
+   "productBagOfRice": "Bag of rice",
+  "productMangueKeitt": "Mangue Keitt",
+  "productBleach": "Bleach",
+  "categoryFruitsLegumes": "Fruits & Vegetables",
+  "categoryHygieneEntretien": "Hygiene & Cleaning"
+    
+}

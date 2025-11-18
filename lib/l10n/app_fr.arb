@@ -1,0 +1,212 @@
+{
+  "@@locale": "fr",
+  "getStarted": "Commencer",
+  "login": "Connexion",
+  "pageTitle1": "Denrées alimentaires",
+  "desc1": "Découvrez des produits locaux frais locaux auprès des fournisseurs selectionnés pour leur excellence.",
+  "pageTitle2": "Payer sans souci",
+  "desc2": "Acheter à distance via un système de paiement sécurisé.",
+  "pageTitle3": "Logistique",
+  "desc3": "Notre service de livraison le plus rapide peut vous apporter ce que vous désirez en un rien de temps.",
+  "settingsTitle": "Paramètres",
+  "themeSettings": "Mode du thème",
+  "themeSystem": "Par défaut du système",
+  "themeLight": "Clair",
+  "themeDark": "Sombre",
+  "languageSettings": "Langue",
+  "selectLanguage": "Sélectionnez la langue",
+  "onafaliTitle": "OnAFALi",
+  "phoneNumberTitle": "Numéro de téléphone",
+  "continueButton": "Continuer",
+  "numberHint": "Ex : 66 77 88 99",
+  "emptyNumberError": "Veuillez entrer un numéro de téléphone.",
+  "shortNumberError": "Le numéro est trop court.",
+  "nameLabel": "Nom",
+  "firstNameLabel": "Prénom",
+  "countryLabel": "Pays de résidence",
+  "enterNameHint": "Entrez votre nom",
+  "enterFirstNameHint": "Entrez votre prénom",
+  "selectCountryHint": "Sélectionnez un pays",
+  "countryRequiredError": "Veuillez sélectionner votre pays de résidence.",
+  "fieldRequiredError": "Ce champ est obligatoire.",
+  "verificationCodeTitle": "Code de Vérifications",
+    "verificationInstruction": "Un code de vérification a été envoyé à votre numéro se terminant par **{lastDigits}.",
+    "@verificationInstruction": {
+        "placeholders": {
+            "lastDigits": {
+                "type": "String"
+            }
+        }
+    },
+    "resendCodeLabel": "Renvoyer le code",
+    "resendCodeTimer": "{minutes}:{seconds}",
+    "verifyNumberButton": "Vérifier mon numéro",
+    "secretCodeTitle": "DÉFINITION DU CODE SECRET",
+    "secretCodeInstruction": "Définissez un code secret à 4 chiffres pour sécuriser votre compte.",
+    "confirmCodeTitle": "CONFIRMATION DU CODE SECRET",
+    "confirmCodeInstruction": "Confirmez votre code secret à 4 chiffres pour sécuriser votre compte.",
+    "enterSecretCode": "Entrer votre code secret",
+    "forgotCode": "J'ai oublié mon code",
+    "needHelp": "Besoin d'aide?",
+    "resetCodeTitle": "RÉINITIALISEZ MON CODE SECRET",
+    "newSecretCodeTitle": "NOUVEAU CODE SECRET",
+    "newSecretCodeInstruction": "Entrer un nouveau code secret à 4 chiffres pour sécuriser votre compte.",
+    "resendCodeTimer": "({minutes}:{seconds})",
+"@resendCodeTimer": {
+  "placeholders": {
+    "minutes": {},
+    "seconds": {}
+  }
+},
+
+"searchDishesRestaurants": "Rechercher plats, restaurants",
+    "onafaliBannerTitle": "OnAFALi",
+    "categoryAll": "Tous",
+    "categoryFruitsVegetables": "Fruits & Légumes",
+    "categoryHygieneMaintenance": "Hygiène & Entretien",
+    "categoryDrinks": "Boissons",
+    "productOriginalSaladName": "Salade Or...",
+    "productLovyFoodRestaurant": "Lovy Food",
+    "addToCartButton": "Ajouter au Panier",
+    "priceUnit": "F",
+    "homeTabTitle": "Accueil",
+    "favoritesTabTitle": "Favoris",
+    "profileTabTitle": "Profil",
+    "snackbarItemAdded": "{productName} ajouté au panier !",
+    "@snackbarItemAdded": {
+        "placeholders": {
+            "productName": {
+                "type": "String",
+                "example": "Salade O..."
+            }
+        }
+    },
+
+    "productDescription": "C'est un met très apprécié des Sénégalais, il est fait à base de feuille et de maïs. C'est un met très apprécié des Sénégalais, il est fait à base de feuille.",
+    "reviewsTitle": "Les avis",
+    "reviewAuthor": "Rosemary",
+    "reviewText": "C'est un met très apprécié des Sénégalais elle est faite a base de feuille.",
+    "backButtonAlt": "Retour",
+    "cartTitle": "Votre panier",
+    "priceLabel": "Prix",
+    "deliveryLabel": "Livraison",
+    "discountLabel": "Discoute",
+    "totalLabel": "Total",
+    "payOnDeliveryButton": "Payer à la livraison",
+    "payNowButton": "Payer maintenant",
+    "sendInvoiceButton": "Envoyer la facture à un proche",
+
+    "ordersTitle": "Vos commends",
+    "statusPending": "En attente",
+    "statusInPreparation": "En preparation",
+    "statusInShipping": "En Expédition",
+    "statusDelivered": "Livrer",
+    "leaveReviewLink": "Laissez un avis",
+
+    "profileTitle": "Votre profile",
+    "myInfoLabel": "Mes informations",
+    "requestAssistanceLabel": "Demander assistance",
+    "promoCodeLabel": "Code Promo",
+    "applyButton": "Appliquer",
+
+    "personalInfoTitle": "Information personnelle",
+    "addressLabel": "Adresse",
+    "saveButton": "Sauvegarder",
+    "firstNameLabel": "Prénom",
+    "lastNameLabel": "Nom de famille",
+
+    "productOriginalSaladName": "Salade Original",
+  
+  "productOriginalSaladDescription": "C'est un met très apprécié des Sénégalais, fait à base de feuille et de maïs. C'est un met très apprécié des Sénégalais, fait à base de feuille et de maïs...",
+
+  "categoryFruitsVegetables": "Fruits & Légumes",
+  
+  "productReviewsTitle": "Les avis",
+  
+  "productReviewMockText": "C'est un met très apprécié des Sénégalais, fait à base de feuille.",
+
+  "addToCartButton": "Ajouter au Panier",
+  
+  "snackbarItemAdded": "Ajouté au panier : {productName}",
+  "@snackbarItemAdded": {
+    "placeholders": {
+      "productName": {
+        "type": "String"
+      }
+    }
+   },
+    "titleProduct": "Nom du Produit",
+    "detailProduct":"Details",
+    "categoryProduct":"Categories",
+    "qteProduct":"Quantite",
+    "priceProduct":"Prix",
+    "imageProduct":"Photos",
+    "enterTitle":"Entrer le nom du produit",
+    "enterDetail":"Entrer les details",
+    "enterCategory":"Entrer la categorie du produit",
+    "enterPrice":"Entrer le prix du produit",
+    "enterQte":"Entrer la quantité du produit",
+    "addButton":"Ajouter",
+
+    "addProductTitle": "Ajouter un produit",
+  "saveProduct": "Ajouter",
+
+   "fieldRequiredError": "Ce champ est obligatoire",
+
+   "tabStocks": "Mes Stocks",
+  "tabOrders": "Mes commandes",
+  "tabBalance": "Mon Solde",
+  "tabProfile": "Profil",
+
+  "categoryFruitsLegumes": "FRUITS & LÉGUMES",
+  "categoryHygieneEntretien": "HYGIÈNE & ENTRETIEN",
+
+  "productNameSample": "Sac de riz",
+  "productDescriptionSample": "Un bon riz fait maison...",
+
+    "orderTitle": "Commandes",
+  "orderCategory": "Catégorie",
+  "orderProduct": "Produit",
+  "orderClient": "Client",
+  "orderQuantity": "Quantité",
+  "orderTotalPrice": "Prix Total",
+  "orderAddress": "Adresse",
+  "orderPhone": "Téléphone",
+  "orderStatus": "Statut",
+
+  "statusPending": "En attente",
+  "statusPreparing": "En préparation",
+  "statusShipping": "En expédition",
+  "statusDelivered": "Livré",
+
+  "category_fruits_vegetables": "Fruits & Légumes",
+  "category_hygiene": "Hygiène & Entretien",
+
+  "balance_title": "Solde",
+  "balance_label": "SOLDE",
+  "histories_title": "Historique",
+  "product_label": "Produit",
+  "reference_label": "Référence",
+
+    "selectRoleInstruction": "Veuillez choisir votre rôle pour continuer.",
+  "roleClient": "Client",
+  "roleClientDesc": "J'achète des produits en détail.",
+  "roleVendor": "Vendeur",
+  "roleVendorDesc": "Je vends mes produits et gère mes commandes.",
+  "continueButton": "Continuer",
+
+   "labelStock": "Stock",
+  "labelPrice": "Prix",
+  "labelInStock": "En Stock",
+  "viewProduct": "Voir le produit",
+
+   "productBagOfRice": "Sac de riz",
+  "productMangueKeitt": "Mangue Keitt",
+  "productBleach": "Eau de Javel",
+  "categoryFruitsLegumes": "Fruits & Légumes",
+  "categoryHygieneEntretien": "Hygiène & Entretien"
+
+
+
+}
+   
