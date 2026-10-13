@@ -23,7 +23,7 @@ jobs:
       - name: 💙 Configurer Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.x'
+          flutter-version: '3.24.5'
           channel: 'stable'
 
       - name: 📦 Installer les dépendances
